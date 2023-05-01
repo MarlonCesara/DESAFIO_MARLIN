@@ -1,0 +1,14 @@
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\bin\Debug\net7.0\Entidades.deps.json
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\bin\Debug\net7.0\Entidades.runtimeconfig.json
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\bin\Debug\net7.0\Entidades.dll
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\bin\Debug\net7.0\Entidades.pdb
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\Entidades.dll
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\refint\Entidades.dll
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\Entidades.pdb
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\Entidades.genruntimeconfig.cache
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Entidades\obj\Debug\net7.0\ref\Entidades.dll

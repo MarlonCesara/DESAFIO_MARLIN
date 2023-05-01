@@ -1,0 +1,15 @@
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\bin\Debug\net7.0\Entidades.dll
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\bin\Debug\net7.0\Entidades.pdb
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\Dominio.csproj.CopyComplete
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\marlo\Downloads\PROJETO-API-DDD-CRIANDO-APIS-DE-NOTICIAS-UTILIZANDO-JSON-WEB-TOKEN-main\Dominio\obj\Debug\net7.0\ref\Dominio.dll
