@@ -58,6 +58,8 @@ namespace Dominio.Servicos
                 return false;
             }
 
+            await _IAluno.Adicionar(aluno);
+
             //Criar matricula obrigatória para novo aluno
             var IdAluno = await _IAluno.RetornarIdAluno(aluno.CPF);
 
@@ -67,7 +69,7 @@ namespace Dominio.Servicos
                 TurmaId = IdTurma,
             };
 
-            await _IAluno.Adicionar(aluno);
+          
             await _IAlunoTurma.Adicionar(novaMatricula);
 
             return true;  
