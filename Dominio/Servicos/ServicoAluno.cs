@@ -71,7 +71,6 @@ namespace Dominio.Servicos
 
           
             await _IAlunoTurma.Adicionar(novaMatricula);
-
             return true;  
         }
 
@@ -86,9 +85,10 @@ namespace Dominio.Servicos
 
             var matricula = await _IAlunoTurma.ListarPorAluno(aluno.Id);
 
-            if (matricula != null)
+            if (matricula.Count > 0 )
             {
                 aluno.AdicionarNotificacao("Exclua a matrícula antes de excluir o aluno!");
+                return false;
             }
 
             await _IAluno.Excluir(aluno);
